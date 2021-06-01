@@ -1,11 +1,7 @@
-# RTL_Design_Using_Verilog_with_SKY130_Technology_Workshop-May2021
-Documentation of labs activity and theory of my attendance of the RTL to Netlist front end design ASIC EDA 5 day workshop held by VSD
-
-
 ![image](https://user-images.githubusercontent.com/75379398/120273729-cc20e680-c2a6-11eb-8e0d-aeab7719de04.png)
 
 # RTL_Design_Using_Verilog_with_SKY130_Technology_Workshop-May2021
-Capture lab steps during VSD 5 day RTL open source/hardware EDA course from verilog to RTL/Netlist
+Documentation of labs activity (and theory) of my participation in the "RTL Design Using Verilog with Sky130 front end design ASIC EDA" 5 day workshop held by VSD
 # Summary
 Continuing with my ASIC design learning quest after attending the OpenLANE and Sky130PDK course run by VSD company (https://github.com/edwar1r/VSD-Openlane_Workshop-April2021), I participated in the RTL Design using Verilog with Sky130 Technology workshop. Again, this was an intensive five day course with the aim of guiding students along the path of going from a Verilog design to RTL/netlist and the steps involved in verifying the design through simulation of the design and the generated RTL. Essential theory was covered in this course along with real labs hands-on activities to put the theory into practice and experience working with the tools (which are open source in nature but being used in commercially). The course covered some of the essential steps within the front-end stages of the design process whereas the previous workshop was focused on the back-end stages of the EDA process. The course uses Verilog for the HDL designs, the principles taught are equally applicable in other HDL languages such as VHDL and EDA tool chains from companies like Siemens, Synopsis, Cadence. I’m excited to attend the next ASIC/FPGA design related workshop from VSD since its such a great learning experience.
 http://linkedin.com/in/robertedwardstelecommssw
